@@ -1,5 +1,5 @@
 {
-    "name": "BertKUL/coinbase",
+    "name": "bertkul/coinbase",
     "description": "Laravel wrapper for the Coinbase Commerce API",
     "keywords": [
         "laravel",
